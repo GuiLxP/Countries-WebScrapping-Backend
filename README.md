@@ -1,2 +1,2 @@
 # Countries-WebScrapping-Backend
-Type <h3>go run main.go</h3> to run.
+Type <b>go run main.go</b> to run.
