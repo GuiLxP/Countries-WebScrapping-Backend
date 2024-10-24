@@ -1,0 +1,41 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Output of the Go compiler
+/build/
+bin/
+cmd/
+
+# Configuration files
+.env
+.env.local
+
+# Dependency directories (for Go modules)
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+.idea
+
+# Logs and debug
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Specific to Eclipse
+.metadata/
